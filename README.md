@@ -1,4 +1,3 @@
-[![Header](https://raw.githubusercontent.com/Elena110392/ElenaUstsimenko/main/Name.jpg)]
 # Hi, I'm Helen 👋
 Junior QA Engineer with 1 year of commercial experience. I have excellent knowledge in writing test documentation, analyzing requirements and finding bugs.
 [Link to my CV](https://drive.google.com/file/d/1c-dhiC0TSNySpzZd2rJew5g3p4NG-dn9/view?usp=sharing)
@@ -18,8 +17,5 @@ Junior QA Engineer with 1 year of commercial experience. I have excellent knowle
 - [Checklists](https://github.com/Elena110392/Checklists)
 - [Bug-Reports](https://github.com/Elena110392/-bug-reports)
 
-
 ### Follow Me
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/elena-ustsimenko-788a611a7/)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artichokeee&show_icons=true&theme=radical)
