@@ -1,6 +1,6 @@
 # Hi, I'm Helen 👋
 Manual QA Engineer with 1 year of commercial experience. I have excellent knowledge in writing test documentation, analyzing requirements and finding bugs.
-[Link to my CV](https://drive.google.com/file/d/1c-dhiC0TSNySpzZd2rJew5g3p4NG-dn9/view?usp=sharing)
+[Link to my CV](https://docs.google.com/document/d/14zX3a8Grz8CLUNz-IBlpYjbV5UrlFY-U)
 
 
 ### Language and Tools
