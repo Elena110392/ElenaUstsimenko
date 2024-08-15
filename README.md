@@ -1,5 +1,5 @@
 # Hi, I'm Helen 👋
-Manual QA Engineer with 1 year of commercial experience. I have excellent knowledge in writing test documentation, analyzing requirements and finding bugs.
+Manual QA Engineer with 3 year of commercial experience. I have excellent knowledge in writing test documentation, analyzing requirements and finding bugs.
 [Link to my CV](https://docs.google.com/document/d/14zX3a8Grz8CLUNz-IBlpYjbV5UrlFY-U)
 
 
@@ -14,7 +14,7 @@ Manual QA Engineer with 1 year of commercial experience. I have excellent knowle
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/Elena110392/Checklists)
+- [Autotests](https://github.com/Elena110392/Checklists)
 - [Bug-Reports](https://github.com/Elena110392/-bug-reports)
 - [Postman](https://github.com/Elena110392/Postman)
 
