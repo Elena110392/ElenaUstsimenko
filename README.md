@@ -1,7 +1,6 @@
 # Hi, I'm Helen 👋
 Manual QA Engineer with 3 year of commercial experience. I have excellent knowledge in writing test documentation, analyzing requirements and finding bugs.
-[Link to my CV](https://docs.google.com/document/d/14zX3a8Grz8CLUNz-IBlpYjbV5UrlFY-U](https://drive.google.com/file/d/1T7raReOTtv4MpcvpQwCkArswdxinwy6W/view?usp=sharing)
-
+[Link to my CV](https://drive.google.com/file/d/1T7raReOTtv4MpcvpQwCkArswdxinwy6W/view?usp=sharing)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
