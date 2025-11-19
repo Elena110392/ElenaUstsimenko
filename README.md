@@ -1,6 +1,6 @@
 # Hi, I'm Alena👋
-Manual QA Engineer with 3 year of commercial experience. I have excellent knowledge in writing test documentation, analyzing requirements and finding bugs.
-[Link to my CV](https://drive.google.com/file/d/1T7raReOTtv4MpcvpQwCkArswdxinwy6W/view?usp=sharing)
+QA Engineer with 4 year of commercial experience. I have excellent knowledge in writing test documentation, analyzing requirements and finding bugs.
+
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
