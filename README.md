@@ -17,5 +17,3 @@ QA Engineer with 4 year of commercial experience. I have excellent knowledge in 
 - [Bug-Reports](https://github.com/Elena110392/-bug-reports)
 - [Postman](https://github.com/Elena110392/Postman)
 
-### Follow Me
-[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/elena-ustsimenko-788a611a7/)
